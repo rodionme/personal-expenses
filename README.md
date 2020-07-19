@@ -5,6 +5,18 @@
 Personal expenses management web client application (static files) that allows users to track how much money have they 
 spent. Application must be written on React with Redux.
 
+### Running
+
+```
+yarn install
+yarn start
+```
+or
+```
+npm install
+npm start
+```
+
 ### Requirements
 As a result of test problem solution you should provide a web application where user can enter a command and see the 
 results of its execution.
