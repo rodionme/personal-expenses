@@ -6,7 +6,7 @@ import {
   FETCH_RATES_FAILURE,
   FETCH_RATES_SUCCESS,
   FETCH_RATES_REQUEST,
-} from './actionTypes';
+} from './types';
 import commandParser, { commandType } from '../helpers/commandParser';
 import CurrencyService from '../services/currency.service';
 

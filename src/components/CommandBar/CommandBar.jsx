@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { executeCommand } from '../../actions';
+import { executeCommand } from '../../redux/actions';
 
 class CommandBar extends React.Component {
   state = {

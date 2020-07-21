@@ -6,7 +6,7 @@ import {
   FETCH_RATES_SUCCESS,
   FETCH_RATES_REQUEST,
   FETCH_RATES_FAILURE,
-} from '../actions/actionTypes';
+} from './types';
 
 let expenseId = 0;
 
